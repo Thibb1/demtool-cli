@@ -1,0 +1,13 @@
+data
+proj
+*.exe
+*.dll
+*.zip
+*.tif
+*.vbs
+*.TXT
+*.url
+*.cpp
+*.xml
+*.vrt
+LICENSE
